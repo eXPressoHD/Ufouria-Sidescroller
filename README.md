@@ -4,6 +4,7 @@ Ufouria: The Saga like 2D Side-Scroller
 Simple 2D Side Scroller. The Player can jump, climb and can place bombs. 
 There are backgrounds with parallax effect and enemies running around.
 The player can also take damage which will be displayed by the healthbar.
+Both the player and the enemy as well as the bombs and some backgrounds have animations that were created with the Unity animation tool.
 
 Made in 2021
 
